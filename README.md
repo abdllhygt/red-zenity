@@ -2,6 +2,7 @@
 Cross-platform dialog boxes for Red language
 
 ![alt info](https://image.ibb.co/jCdW0T/0.png)
+*(Elementary OS)*
 ```red
 wsize 300x200 zenity/info "Hi! Programming is more easy with <b>Red-Zenety</b>"
 ```
