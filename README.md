@@ -9,20 +9,24 @@ Cross-platform dialog boxes for Red language
 ## Question
 ![alt info](https://image.ibb.co/n1q8Eo/4.png)
 
-## Warning
-![alt info](https://image.ibb.co/nxzeLT/2.png)
+## Entry
+![alt info](https://image.ibb.co/iahYfT/5.png)
 
-## Warning
-![alt info](https://image.ibb.co/nxzeLT/2.png)
+## Password
+![alt info](https://image.ibb.co/mA4qS8/9.png)
 
-## Warning
-![alt info](https://image.ibb.co/nxzeLT/2.png)
+## Calendar
+![alt info](https://image.ibb.co/kYxzLT/6.png)
 
-## Warning
-![alt info](https://image.ibb.co/nxzeLT/2.png)
+## Select Color
+![alt info](https://image.ibb.co/iXoTEo/7.png)
 
-## Warning
-![alt info](https://image.ibb.co/nxzeLT/2.png)
+## Select Color Palette
+![alt info](https://image.ibb.co/ndmtfT/7_1.png)
 
-## Warning
-![alt info](https://image.ibb.co/nxzeLT/2.png)
+## Scale
+![alt info](https://image.ibb.co/hQXc78/8.png)
+
+## List
+![alt info](https://image.ibb.co/eVNMZo/10.png)
+
