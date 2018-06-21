@@ -2,6 +2,9 @@
 Cross-platform dialog boxes for Red language
 
 ![alt info](https://image.ibb.co/jCdW0T/0.png)
+```
+zenity/info "Hi! Programming is more easy with <b>Red-Zenety</b>"
+```
 
 #### Warning
 ![alt info](https://image.ibb.co/nxzeLT/2.png)
